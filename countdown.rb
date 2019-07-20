@@ -3,17 +3,26 @@
 
 def countdown(x)
 
+<<<<<<< HEAD
   while x > 0
+=======
+  until x == 0
+>>>>>>> 4f11ec1c22adc0a9e1c72d735b015c4652faabec
     puts "#{x} SECOND(S)!"
       x = x - 1 
   end
 
   if x == 0 
+<<<<<<< HEAD
     return "HAPPY NEW YEAR!"
+=======
+    puts "HAPPY NEW YEAR!"
+>>>>>>> 4f11ec1c22adc0a9e1c72d735b015c4652faabec
   end 
 
 end 
 
+<<<<<<< HEAD
 #write second code here
 
 
@@ -31,4 +40,9 @@ def countdown_with_sleep(x)
 end 
   
  
+=======
+
+
+
+>>>>>>> 4f11ec1c22adc0a9e1c72d735b015c4652faabec
 
