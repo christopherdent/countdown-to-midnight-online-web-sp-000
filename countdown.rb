@@ -11,7 +11,6 @@
 
 end 
 
-countdown(10)
 
 #write second code here
 
@@ -29,6 +28,7 @@ def countdown_with_sleep(x)
 
  end 
   
+countdown_with_sleep(10)
  
 
 
