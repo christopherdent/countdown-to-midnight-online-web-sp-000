@@ -22,6 +22,8 @@ def countdown(x)
 
 end 
 
+countdown(10)
+
 <<<<<<< HEAD
 #write second code here
 
