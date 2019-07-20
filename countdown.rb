@@ -6,7 +6,7 @@
   end
 
   if x == 0 
-    return "HAPPY NEW YEAR!"
+    p "HAPPY NEW YEAR!"
   end 
 
 end 
